@@ -10,7 +10,7 @@ it also works on bearer Authorization witch generate a token every time of sign 
 
 ## linkes
 
-https://saad-alzubi-bearerAuth.herokuapp.com/
+https://saad-alzubi-bearerauth.herokuapp.com/
 
 https://github.com/saadomaralzoubi/bearer-auth/pull/1
 
